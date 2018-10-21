@@ -1,6 +1,6 @@
 # Site settings
 title: RY Blog
-SEOTitle: RainYuen的博客 | RY Blog
+SEOTitle: RainYuen's Blog | RY Blog
 header-img: img/post-bg-desk.jpg
 email: rain_yuen@qq.com
 description: "Every failure is leading towards success."
@@ -99,13 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "BY",
+        href: "http://qiubaiying.top"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Oracle",
+        href: "https://www.oracle.com/cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "PL/SQL Developer",
+        href: "https://www.allroundautomations.com/plsqldev.html"
     }
 ]
