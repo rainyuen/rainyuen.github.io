@@ -4,7 +4,7 @@ SEOTitle: RainYuen的博客 | RY Blog
 header-img: img/post-bg-desk.jpg
 email: rain_yuen@qq.com
 description: "Every failure is leading towards success."
-keyword: "RY, RY Blog, RainYuen的博客, RainYuen, iOS, Apple, iPhone"
+keyword: "RY, RY Blog, RainYuen's Blog, RainYuen, Oracle, SQL"
 url: "http://rainyuen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/rainyuen/rainyuen.github.io.git" # you code repository
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 3b90b2faa3c1484fb8a3                            #生成的clientID
-  clientSecret: 9e2df0548ed8a6a3437678a3ba9acb8099a76cda    #生成的clientSecret
+  clientID: 34dd1998d6b5c928643e                            #生成的clientID
+  clientSecret: dfc5bc9ccfa944d3e7d8705a80f61c08e675d9e6    #生成的clientSecret
   repo: rainyuen.github.io    #仓库名称
   owner: rainyuen    #github用户名
   admin: rainyuen
